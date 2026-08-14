@@ -7,7 +7,7 @@
 ---
 
 ## Project Overview
-BridgeTech is designed to help software engineering students learn modern development tools—such as Git, APIs, CI/CD, and Cloud basics—through structured modules, interactive quizzes, and hands-on exercises.
+BridgeTech is designed to help software engineering students learn modern development tools such as Git, APIs, CI/CD, and Cloud basics through structured modules, interactive quizzes, and hands-on exercises.
 
 ## Team Responsibilities
 - **Main Branch:** Reserved for production-ready, fully tested releases. Do not push directly to `main`.
