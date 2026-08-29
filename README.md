@@ -5,7 +5,7 @@ This branch contains the API services, database integrations, and third-party AP
 ---
 
 ## Potential Tech Stack
-* **Framework:** FastAPI (Python) or Node.js / Express
+* **Framework:** C# (Asp.Net Core Web API), React.js
 * **Database:** PostgreSQL (managed via Supabase)
 * **Integrations:** Claude / OpenAI API, GitHub API
 * **Hosting:** Supabase / Render / Railway
