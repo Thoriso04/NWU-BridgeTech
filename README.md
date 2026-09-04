@@ -1,14 +1,14 @@
-# BridgeTech - Frontend
+# BridgeTech - Backend
 
-This branch houses the user interface and frontend client for the BridgeTech e-learning platform.
+This branch contains the API services, database integrations, and third-party API connections for BridgeTech.
 
 ---
 
 ## Potential Tech Stack
-* **Framework:** React.js or Vue.js
-* **Styling:** CSS Modules, Tailwind CSS, or Styled Components
-* **Build Tool:** Vite or Create React App / Vue CLI
-* **Hosting:** Vercel or Netlify
+* **Framework:** C# (Asp.Net Core Web API), React.js
+* **Database:** PostgreSQL (managed via Supabase)
+* **Integrations:** Claude / OpenAI API, GitHub API
+* **Hosting:** Supabase / Render / Railway
 ## Project Overview
 BridgeTech is designed to help software engineering students learn modern development tools such as Git, APIs, CI/CD, and Cloud basics through structured modules, interactive quizzes, and hands-on exercises.
 
@@ -18,7 +18,7 @@ BridgeTech is designed to help software engineering students learn modern develo
 - **Pull Requests:** All code changes must go through a Pull Request (PR) with at least one review.
 
 ## Branch Purpose
-This branch is the base for all client-side development, including user dashboards, module viewers, interactive quiz interfaces, and practical exercise UI.
+This branch is the base for all server-side logic, including user authentication, content management APIs, auto-grading engines, and external API connectors.
 
 ## Getting Started
-> *Team: Initialize your project workspace here and update this section with setup, install (`npm install`), and run (`npm start` / `npm run dev`) commands.*
+> *Team: Initialize your backend project here and update this section with setup, environment variable requirements (`.env.example`), and local server startup commands.*
